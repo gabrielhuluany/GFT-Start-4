@@ -10,7 +10,7 @@ class Program {
     List<int> lista = new List<int>(Console.ReadLine().Split(' ').Select(int.Parse).ToList());
     List<int> impar = new List<int>();
 
-    for(int i = lista[0] - 1; i < lista[1]; i++) {
+    for(int i = lista[0]; i < lista[1]; i++) {
         impar.Add(lista[0] + i);
     }
 
