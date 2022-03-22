@@ -17,15 +17,8 @@ ex2/obj/
 ex2/ex2.csproj
 
 
-ex3/bin/Debug/net6.0/
+ex3_4/bin/Debug/net6.0/
 
-ex3/obj/
+ex3_4/obj/
 
-ex3/ex3.csproj
-
-
-ex4/bin/Debug/net6.0/
-
-ex4/obj/
-
-ex4/ex4.csproj
+ex3_4/ex3.csproj
